@@ -1,6 +1,6 @@
 # Hi there, I'm Ashim 👋
 
- 🖥️ Computer Operator & Web Enthusiast| 📍 Assam, India
+ 🖥️ Computer Operator & Web Enthusiast | 📍 Assam, India
 
 ---
 
