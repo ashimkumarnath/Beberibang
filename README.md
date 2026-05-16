@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-![Ashim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashimkumarnath&show_icons=true&theme=default)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashimkumarnath&show_icons=true&theme=default)
 
 ---
 
