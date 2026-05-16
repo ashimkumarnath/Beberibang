@@ -28,11 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashimkumarnath&show_icons=true&theme=default)
-
----
 
 ## 📬 Connect with Me
 
